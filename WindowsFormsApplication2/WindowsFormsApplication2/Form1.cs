@@ -13,6 +13,8 @@ namespace WindowsFormsApplication2
     {
         public Form1()
         {
+            var t = 0;
+            var m=0;
             InitializeComponent();
         }
     }

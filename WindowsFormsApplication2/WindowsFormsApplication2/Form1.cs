@@ -13,7 +13,6 @@ namespace WindowsFormsApplication2
     {
         public Form1()
         {
-            var mytest = 0;
             InitializeComponent();
         }
     }

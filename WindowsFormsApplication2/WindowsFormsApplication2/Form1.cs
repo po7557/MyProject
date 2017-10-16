@@ -14,6 +14,7 @@ namespace WindowsFormsApplication2
         public Form1()
         {
             var mytest = 0;
+            var mytets2 = 1;
             InitializeComponent();
         }
     }

@@ -15,7 +15,6 @@ namespace WindowsFormsApplication2
         {
             var mytest = 0;
             InitializeComponent();
-            var total = 340;
         }
     }
 }
